@@ -1,3 +1,10 @@
+This project uses "d3" and "react-svg-pan-zoom"
+
+In the project directory, run these commands first:
+
+### `npm install --save d3`
+### `npm install --save react-svg-pan-zoom`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
